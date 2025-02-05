@@ -12,7 +12,7 @@ The automobile market is evolving, with a growing emphasis on **fuel efficiency,
 - Identify **top fuel-efficient cars, safety trends, and pricing insights**.
 
 ## 📊 Tools & Techniques Used
-- **Excel Functions:** `VLOOKUP`, `IF`, `SUMIF`, `COUNTIF`, `AVERAGEIF`, `INDEX-MATCH`
+- **Excel Functions:** `VLOOKUP`, `IF`, `SUMIF`, `COUNTIF.
 - **Pivot Tables & Charts:** Used for **trend analysis & visualization**
 - **Conditional Formatting:** Highlights key data points
 - **Dashboards:** Provides an interactive summary of insights
